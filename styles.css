@@ -1,0 +1,27 @@
+.imagen-derecha {
+    float: right;
+}
+
+h2 {
+    font-family: Verdana;
+}
+
+h3 {
+    font-family:'Lucida Sans';
+}
+
+li {
+    font-family:'Segoe UI';
+}
+
+span2 {
+    font-family: Tahoma;
+}
+
+span {
+    font-family: serif;
+}
+
+.form-content{
+    display: flex; justify-content: space-around; margin-top: 10px; margin-bottom: 10px;
+}
